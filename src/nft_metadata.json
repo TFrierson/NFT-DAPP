@@ -1,0 +1,74 @@
+[
+    {
+      "name": "DeafGalaxy #1",
+      "description": "DeafHacker's very first NFT",
+      "image": "https://gateway.pinata.cloud/ipfs/QmNMRN1df3RuaV3k6Vw8MKLCNWAoik55gYCJnw9amSWAtm/1.png",
+      "dna": "ef78d0f3091d55eb290027f1bf161da2612d985a",
+      "edition": 1,
+      "date": 1665583786315,
+      "artist": "DeafHacker",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "galaxy"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "earth"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "logo"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "DeafGalaxy #2",
+      "description": "DeafHacker's very first NFT",
+      "image": "https://gateway.pinata.cloud/ipfs/QmNMRN1df3RuaV3k6Vw8MKLCNWAoik55gYCJnw9amSWAtm/2.png",
+      "dna": "c17f5c01fe1769afa6539c3ab4a22228bfbbf126",
+      "edition": 2,
+      "date": 1665583787626,
+      "artist": "DeafHacker",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "stars"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "mars"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "logo"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "DeafGalaxy #3",
+      "description": "DeafHacker's very first NFT",
+      "image": "https://gateway.pinata.cloud/ipfs/QmNMRN1df3RuaV3k6Vw8MKLCNWAoik55gYCJnw9amSWAtm/3.png",
+      "dna": "4ba60388be337bc1dc4b34c459ef6e48848779a9",
+      "edition": 3,
+      "date": 1665583789006,
+      "artist": "DeafHacker",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "galaxy"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "venus"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "logo"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    }
+  ]
